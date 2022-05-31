@@ -1,2 +1,2 @@
-# LGM-TASK-2
+# LetsGrowMore-TASK-2
 # Calculator
